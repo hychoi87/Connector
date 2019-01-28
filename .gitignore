@@ -32,6 +32,7 @@
 *.app
 
 # HAK
+*.csv
 *.bmp
 *.db
 .vs/
